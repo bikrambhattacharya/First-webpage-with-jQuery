@@ -1,6 +1,6 @@
 $( function()
 {    $('#audio').hide(0);
-    $("h1").css("color","red").fadeOut(5000);    
+    $("h1").css("color","red").fadeOut(6000);    
 	$(document).keydown(function(e)
     {
        
